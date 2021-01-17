@@ -1,5 +1,5 @@
 {
-  "name": "CanberkDeniz/yii2-130201092",
+  "name": "canberkdeniz95/yii2-130201092",
   "description": "Yii2 Players Module",
   "type": "yii2-extension",
   "license": "MIT",
@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "CanberkDeniz\\players\\": "src"
+      "canberkdeniz95\\players\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "CanberkDeniz\\players\\tests\\": "tests"
+      "canberkdeniz95\\players\\tests\\": "tests"
     }
   },
   "repositories": [
