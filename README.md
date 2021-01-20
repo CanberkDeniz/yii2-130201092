@@ -8,7 +8,7 @@ konsola "cd /var/www/" yazdıktan sonra "composer create-project --prefer-dist y
 
 Adım 2
 Github linki ile clone çekme
-konsola /var/www/advanced uzandıtında composer require --prefer-dist uguryildiz/yii2-content "dev-main"
+konsola /var/www/advanced uzandıtında "composer require --prefer-dist canberkdeniz95/yii2-130201092 "dev-main" "
 
 Adım 3
 advanced/backend/config/main.php içerisinde 'modules' -> 'content' altında 'players' => 'canberkdeniz95\players\module' yazmamız lazım.
