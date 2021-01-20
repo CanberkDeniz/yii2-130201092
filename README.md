@@ -5,14 +5,18 @@ https://www.vagrantup.com/ ve https://www.oracle.com/tr/virtualization/virtualbo
 Adım 1
 yiisoft/yii2-app-advanced kurulumu.
 konsola "cd /var/www/" yazdıktan sonra "composer create-project --prefer-dist yiisoft/yii2-app-advanced advanced" yazarak kurulumu gerçekleştiriyoruz.
+
 Adım 2
 Github linki ile clone çekme
 konsola /var/www/advanced uzandıtında composer require --prefer-dist uguryildiz/yii2-content "dev-main"
+
 Adım 3
 advanced/backend/config/main.php içerisinde 'modules' -> 'content' altında 'players' => 'canberkdeniz95\players\module' yazmamız lazım.
+
 Adım 4
 moduledeki migrations dosyası içinde bulunan .php uzantılı dosyaları advanced/console/migrations ın içerisine kopyalayıp
 konsolda "migrate up" komutunu çalıştırıyoruz.Böylelikle veri şemalarımız elde edilmiş oluyor.
+
 Adım 5
 "vagrant up" komutunu çalıştırarak makinemizi ayağa kaldırıp aşağıdaki görüntülere ulaşabiliyoruz.
 
