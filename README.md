@@ -21,3 +21,11 @@ Module Görüntüleri
 1-http://advanced/backend/web/index.php?r=players/players/index linkinden oyuncuların tablosuna erişiyoruz.
 
 ![Screenshot](Players.png)
+
+2-http://advanced/backend/web/index.php?r=players/teams/index linkinden takımların tablosuna erişiyoruz.
+
+![Screenshot](Teams.png)
+
+3- ve son olarak http://advanced/backend/web/index.php?r=players%2Ftransfer%2Findex linkinden transfer işlemini gerçekleştirebiliyoruz.
+
+![Screenshot](Transfer.png)
