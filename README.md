@@ -22,11 +22,11 @@ Adım 5
 
 Module Görüntüleri
 
-1-http://advanced/backend/web/index.php?r=players/players/index linkinden oyuncuların tablosuna erişiyoruz.
+1-http://advanced/backend/web/index.php?r=players/players/index linkinden oyuncuların tablosuna erişiyoruz.Bu ekranda oyuncu ekleme/silme/güncelleme işlemleri yapılabiliyor.
 
 ![Screenshot](Players.png)
 
-2-http://advanced/backend/web/index.php?r=players/teams/index linkinden takımların tablosuna erişiyoruz.
+2-http://advanced/backend/web/index.php?r=players/teams/index linkinden takımların tablosuna erişiyoruz.Bu ekranda takım ekleme/silme/güncelleme işlemleri yapılabiliyor.
 
 ![Screenshot](Teams.png)
 
