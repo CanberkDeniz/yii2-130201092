@@ -28,4 +28,4 @@ Module Görüntüleri
 
 3- ve son olarak http://advanced/backend/web/index.php?r=players%2Ftransfer%2Findex linkinden transfer işlemini gerçekleştirebiliyoruz.
 
-![Screenshot](Transfer.png)
+![Screenshot](Transfers.png)
