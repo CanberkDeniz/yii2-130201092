@@ -29,3 +29,5 @@ Module Görüntüleri
 3- ve son olarak http://advanced/backend/web/index.php?r=players%2Ftransfer%2Findex linkinden transfer işlemini gerçekleştirebiliyoruz.
 
 ![Screenshot](Transfers.png)
+
+4- Transfer işlemi oyuncunun hangi takımdan hangi takıma transfer olacağını ve bunun sonucunda oyuncunun takımının değişmesini sağlamaktadır.İşlem gerçekleştikten sonra tekrar http://advanced/backend/web/index.php?r=players/teams/index linkine giderek oyuncunun takımının değiştiği görülebilir.
