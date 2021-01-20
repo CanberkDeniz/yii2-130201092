@@ -1,6 +1,6 @@
 <?php
 
-namespace CanberkDeniz\players;
+namespace canberkdeniz95\players;
 
 class Module extends \yii\base\Module
 {

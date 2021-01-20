@@ -1,6 +1,6 @@
 <?php
 
-namespace CanberkDeniz\players\controllers;
+namespace canberkdeniz95\players\controllers;
 
 class DefaultController extends \yii\web\Controller
 {
